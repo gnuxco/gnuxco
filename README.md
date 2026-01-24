@@ -1,1 +1,1 @@
-Just a normal guy who is passionate about computer stuff and programming domains specially in low level stuff like oprating systems, currently practicing C and python ( just for my college), and I'm hoping to be a OS developer or maybe a free C programmer.
+Currently learning C/C++ and diving into multiple frameworks like SDL. Still didn't make any big project but looking forward to build my own apps.
