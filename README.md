@@ -1,1 +1,1 @@
-Currently learning C/C++ and diving into multiple frameworks like SDL. Still didn't make any big project but looking forward to build my own apps.
+2nd year computer science college student, currently learning C/C++ and diving into frameworks like SDL and GLFW. Favorite topics is OS and Networking since they are my main subjects this semester.
